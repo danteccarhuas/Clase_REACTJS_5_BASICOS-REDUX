@@ -1,0 +1,15 @@
+{
+  "name": "basicos-redux",
+  "version": "1.0.0",
+  "description": "Aprendiendo Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "\u001b[A\u001b[B\u001b[BDante Ccarhuas Bardales",
+  "license": "ISC",
+  "devDependencies": {
+    "redux": "^4.0.5"
+  }
+}
